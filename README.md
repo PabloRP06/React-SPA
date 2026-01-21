@@ -13,3 +13,6 @@ Este proyecto es una aplicación de página única (SPA) desarrollada con React 
 2. Instalar dependencias:
    ```bash
    npm install
+3. Ejecutar proyecto:
+   ```bash
+   npm run dev
